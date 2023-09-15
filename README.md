@@ -12,7 +12,7 @@
 
 ⚙️ Ruby | Ruby on Rails | Python | FastAPI | React | Vite | JavaScript | HTML | CSS | Git | GitHub | PostgreSQL | Amazon Web Services | Docker
 
-Check out my game project, [Sea Sweepers](https://github.com/juperameza/sea-sweepers) 😃
+
 
 ## Let's Connect!
 💬 [LinkedIn](https://linkedin.com/in/juperameza/) 
